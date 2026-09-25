@@ -1,0 +1,1 @@
+"""Study habit tracking package."""
